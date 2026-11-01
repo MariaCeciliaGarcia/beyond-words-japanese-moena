@@ -10,3 +10,8 @@ outputs/
 *学习备份*.json
 *进度副本*.json
 *原始进度*.txt
+
+# 开发规则与本机工具：仅本地使用，不进入公开仓库
+AGENTS.md
+corpus-check.cjs
+build-daily.cjs
