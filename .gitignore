@@ -15,3 +15,5 @@ outputs/
 AGENTS.md
 corpus-check.cjs
 build-daily.cjs
+
+corpus-local/

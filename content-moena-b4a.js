@@ -32,7 +32,7 @@ BWJP.A({
  ]});
 
 BWJP.A({
- id:'pj-b4a-mochu-nenga-kerei', covers:[17,18], folds:[],
+ id:'pj-b4a-mochu-nenga-kerei', covers:[17,18], folds:[352,354],
  meaning:'服丧期；因服丧而不寄贺年卡的告知',
  expression:'喪中',
  explanation:'「喪中」指家里有亲人去世后的服丧期，这段时间不寄贺年卡、不互相祝新年。事先告知对方“因服丧不寄贺年卡”的明信片叫「年賀欠礼」，也叫喪中はがき，一般在年内较早寄出。',

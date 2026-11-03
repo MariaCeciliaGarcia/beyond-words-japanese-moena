@@ -347,7 +347,38 @@ window.BW_JP_DAILY_MATERIALS = [
   {"id":"2026-11-01-342","expression":"「まずは書中をもって～」は、手紙で失礼ですが、とりあえずご挨拶まで、という意味の結びです","meaning":"“まずは書中をもって～”是结尾句，意为“以书信问候，略表心意”。","kind":"expression","unitId":"pj-b8b-mazuha-shochuu"},
   {"id":"2026-11-01-343","expression":"「取り急ぎ」は、詳細は後ほど、という意味の結びです","meaning":"“取り急ぎ”是结尾用语，意为“详情稍后”。","kind":"expression","unitId":"pj-b8b-toriisogi"},
   {"id":"2026-11-01-344","expression":"「同人」は、前に出てきた人を指す書き言葉です","meaning":"“同人”是指前文提到的那个人的书面语。","kind":"support","unitId":"pj-b7b-kounin-shokai"},
-  {"id":"2026-11-01-345","expression":"開店の挨拶状では、「閉じる」「終わる」「倒れる」「潰れる」「去る」「失う」「衰える」「燃える」「火」などの忌み言葉は使いません","meaning":"开店问候函不使用“闭、结束、倒、垮、去、失、衰、烧、火”等忌讳词。","kind":"support","unitId":"pj-b4a-imikotoba"}
+  {"id":"2026-11-01-345","expression":"開店の挨拶状では、「閉じる」「終わる」「倒れる」「潰れる」「去る」「失う」「衰える」「燃える」「火」などの忌み言葉は使いません","meaning":"开店问候函不使用“闭、结束、倒、垮、去、失、衰、烧、火”等忌讳词。","kind":"support","unitId":"pj-b4a-imikotoba"},
+  {"id":"2026-11-01-346","expression":"ストレスを抱えている","meaning":"背负着压力（「抱える」含长期、沉重的负担感）。","kind":"expression","unitId":"pj-b9a-stress-kakaeru"},
+  {"id":"2026-11-01-347","expression":"急な変化","meaning":"突然的变化、骤然的变化。","kind":"expression","unitId":"pj-b9a-kyuu-na"},
+  {"id":"2026-11-01-348","expression":"締め切りが迫る","meaning":"截止日期临近（「迫る」＝时间、期限逼近）。","kind":"expression","unitId":"pj-b9a-shimekiri-semaru"},
+  {"id":"2026-11-01-349","expression":"プレッシャーを感じる","meaning":"感到压力。","kind":"expression","unitId":"pj-b9a-stress-kakaeru"},
+  {"id":"2026-11-01-350","expression":"またまた","meaning":"（口语）哪有哪有、又来这套；轻笑着否定对方话的附和语。","kind":"expression","unitId":"pj-b9a-matamata"},
+  {"id":"2026-11-01-351","expression":"大げさだなあ","meaning":"太夸张了吧（「大げさ」＝夸大）。","kind":"expression","unitId":"pj-b9a-matamata"},
+  {"id":"2026-11-01-352","expression":"喪中につき、年頭のご挨拶を失礼させていただきます","meaning":"因正值服丧期，新年的问候就恕不奉上了（年賀欠礼的固定说法）。","kind":"support","unitId":"pj-b4a-mochu-nenga-kerei"},
+  {"id":"2026-11-01-353","expression":"～につき","meaning":"因为……（书面语，用于通知理由），如「喪中につき」。","kind":"expression","unitId":"pj-b9a-ni-tsuki"},
+  {"id":"2026-11-01-354","expression":"年頭のご挨拶","meaning":"新年的问候、贺年。","kind":"support","unitId":"pj-b4a-mochu-nenga-kerei"},
+  {"id":"2026-11-01-355","expression":"～を失礼させていただく","meaning":"恕我省去……、请容我不……（礼貌地表示不做某事）。","kind":"expression","unitId":"pj-b9a-shitsurei-sasete"}
+ ]},
+ {id:"2026-11-03",date:"2026-11-03",items:[
+  {"id":"2026-11-03-001","expression":"〇〇を心がけています。","meaning":"我平时注意（努力做到）〇〇。","kind":"expression","unitId":"pj-b9b-kokorogakeru"},
+  {"id":"2026-11-03-002","expression":"ご〇〇なさらないでください","meaning":"请不要（过于）〇〇，如请不要担心、请不要客气、请别谦虚。","kind":"expression","unitId":"pj-b9b-go-nasaranai"},
+  {"id":"2026-11-03-003","expression":"〇〇にかまけて","meaning":"一味忙于〇〇（而顾不上该做的事）。","kind":"expression","unitId":"pj-b9b-ni-kamakete"},
+  {"id":"2026-11-03-004","expression":"〇〇と言うと〇〇響きが強い","meaning":"说成“〇〇”的话，会给人〇〇的语感，意味偏强。","kind":"expression","unitId":"pj-b9b-hibiki-ga-tsuyoi"},
+  {"id":"2026-11-03-005","expression":"〇〇に沿って","meaning":"按照〇〇、依照〇〇（基准、方针、流程等）。","kind":"expression","unitId":"pj-b9b-ni-sotte"},
+  {"id":"2026-11-03-006","expression":"〇〇へお伺いいたします","meaning":"我将前往〇〇拜访（谦让）。","kind":"expression","unitId":"pj-b9b-ukagau"},
+  {"id":"2026-11-03-007","expression":"ご〇〇いただく","meaning":"承蒙对方〇〇（对方为我做某事的谦让说法）。","kind":"expression","unitId":"pj-b9b-go-itadaku"},
+  {"id":"2026-11-03-008","expression":"このたびは〇〇","meaning":"此次〇〇（致谢、致歉、祝贺等的开场）。","kind":"expression","unitId":"pj-b9b-konotabi-wa"},
+  {"id":"2026-11-03-009","expression":"〇〇かと存じますが","meaning":"我想或许〇〇，但……（委婉的铺垫）。","kind":"expression","unitId":"pj-b9b-kato-zonjimasu"},
+  {"id":"2026-11-03-010","expression":"へりくだっていう","meaning":"谦逊地说，用谦让的方式表达。","kind":"support","unitId":"pj-b2a-kenson"},
+  {"id":"2026-11-03-011","expression":"〇〇させていただけて","meaning":"能够让我〇〇，（深感荣幸、高兴）。","kind":"expression","unitId":"pj-b9b-sasete-itadakete"},
+  {"id":"2026-11-03-012","expression":"〇〇により","meaning":"由于〇〇、根据〇〇、通过〇〇。","kind":"expression","unitId":"pj-b9b-ni-yori"},
+  {"id":"2026-11-03-013","expression":"手違い","meaning":"差错、失误（安排、手续上的疏漏）。","kind":"expression","unitId":"pj-b9b-techigai"},
+  {"id":"2026-11-03-014","expression":"申し付ける","meaning":"吩咐、交代（做某事）。","kind":"support","unitId":"pj-b4b-fumei-ten"},
+  {"id":"2026-11-03-015","expression":"にあずかる","meaning":"承蒙、蒙受（招待、介绍、夸奖等）。","kind":"expression","unitId":"pj-b9b-ni-azukaru"},
+  {"id":"2026-11-03-016","expression":"ご案内","meaning":"带路、引导；通知、告知；介绍资料、手册。","kind":"expression","unitId":"pj-b9b-goannai"},
+  {"id":"2026-11-03-017","expression":"〇〇が可能となります","meaning":"将能够〇〇、可以〇〇了。","kind":"support","unitId":"pj-b5b-jinsoku-taio"},
+  {"id":"2026-11-03-018","expression":"～にともない","meaning":"随着……。","kind":"support","unitId":"pj-b6a-ni-tomonai"},
+  {"id":"2026-11-03-019","expression":"人員増加","meaning":"人员增加。","kind":"support","unitId":"pj-b6a-gyoumu-kakuchou"}
  ]}
 ];
 // 个人单元写在 content-moena-*.js（经 content-builder.js 的 BWJP.A/B/C 生成），汇入 window.BW_JP_MOENA。

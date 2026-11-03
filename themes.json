@@ -55,6 +55,10 @@
   {
    "id": "t14",
    "name": "调动离职与交接"
+  },
+  {
+   "id": "t15",
+   "name": "职场闲聊与口语反应"
   }
  ],
  "units": {
@@ -239,6 +243,26 @@
   "pj-b7b-ishinjou-taishoku": "t14",
   "pj-b7b-kounin-renrakusaki": "t14",
   "pj-b7c-ido-no-aisatsujou": "t14",
-  "pj-b7c-kongo-no-madoguchi": "t14"
+  "pj-b7c-kongo-no-madoguchi": "t14",
+  "pj-b9a-stress-kakaeru": "t15",
+  "pj-b9a-shimekiri-semaru": "t15",
+  "pj-b9a-kyuu-na": "t15",
+  "pj-b9a-matamata": "t15",
+  "pj-b9b-ni-kamakete": "t15",
+  "pj-b9a-ni-tsuki": "t6",
+  "pj-b9a-shitsurei-sasete": "t4",
+  "pj-b9b-kokorogakeru": "t4",
+  "pj-b9b-go-nasaranai": "t4",
+  "pj-b9b-hibiki-ga-tsuyoi": "t4",
+  "pj-b9b-ni-sotte": "t6",
+  "pj-b9b-ukagau": "t6",
+  "pj-b9b-go-itadaku": "t6",
+  "pj-b9b-kato-zonjimasu": "t6",
+  "pj-b9b-ni-yori": "t6",
+  "pj-b9b-konotabi-wa": "t2",
+  "pj-b9b-sasete-itadakete": "t2",
+  "pj-b9b-ni-azukaru": "t2",
+  "pj-b9b-techigai": "t12",
+  "pj-b9b-goannai": "t3"
  }
 }
